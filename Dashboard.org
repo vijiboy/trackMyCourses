@@ -1,0 +1,18 @@
+* Track My Courses:
+    I created this to track thus encourage my progress in courses, which I undertake by myself. 
+    E.g. Course be a online course such as MOOC (massively open online course) or it could be
+    an offline course such as reading an book and solving its exercises.
+    
+    I am not paying to keep it private because even in public no one would find it of any significance
+    to visit just to read my progress, apart from me :) 
+    Other reason is keeping it public, anyone can see/know what kind of courses I am interested in
+    and how much progress I have made. So be it open source.
+    
+    I will use emacs and org-mode to organise the multiple courses linking assignments, thoughts, 
+    creating org files as they are formed.
+
+** Machine Learning Course, Andrew Ng on Coursera
+** Introduction to Algorithms, CLRS, MIT OCW
+** Learning how to Learn by Oakley on Coursera
+** Learning Pandas for Data Science
+** Hands-on Machine learning using TensorFlow and Sci-Kit.
